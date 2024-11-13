@@ -1,5 +1,5 @@
 # DiplomskiRad
-Udaljeno upravljanje robotom TIOSS
+## Udaljeno upravljanje robotom TIOSS
 
 Cilj ovog diplomskog rada je upravljati robotom TIOSS s VIDI X mikroračunalom.
 
